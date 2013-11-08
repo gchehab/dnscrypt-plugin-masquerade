@@ -1,0 +1,7 @@
+# You mus use the same format as in /etc/hosts file
+# It is possible to use wildcards
+
+127.0.0.1	doubleclick.net	
+127.0.0.1	*.test
+192.168.1.1	my_home_server myserver
+192.168.1.1	printserver
