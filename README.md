@@ -1,4 +1,4 @@
-GeoIP plugin for DNSCrypt
+Masquerade plugin for DNSCrypt
 =========================
 
 This is a [dnscrypt](http://dnscrypt.org) plugin to masquerade
